@@ -1,0 +1,6 @@
+[gd_resource type="Resource" script_class="GridSelect" format=3 uid="uid://dasb2jg23stsn"]
+
+[ext_resource type="Script" uid="uid://b7x0rb5xr36f2" path="res://resources/grid_select.gd" id="1_dkggs"]
+
+[resource]
+script = ExtResource("1_dkggs")

@@ -1,0 +1,2 @@
+class_name GridSelect
+extends Resource
